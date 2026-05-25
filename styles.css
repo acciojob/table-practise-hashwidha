@@ -1,17 +1,17 @@
 
 table{
 	
-	border:1px solid black
-	
-	
+	border:1px solid black	
 }
-p{
-	align-items:center;
+caption {
+caption-side: bottom;
+  text-align: center;
 }
 th,td{
 	border:1px solid black
 	
 }
+
 table{
 	background-color:yellow
 }
